@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello😃
+
+🌱 M.S. candidate in IT Engineering
+
+I'm studying FER(Facial Expression Recognition) and GAN(Generative Adversarial Net). 
+
+I enjoy drawing, reading and doing pilates🍒
+
 
 <!--
 **chaelin0722/chaelin0722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
