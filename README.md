@@ -2,7 +2,9 @@
 
 🌱 M.S. candidate in IT Engineering
 
-🌱 studying FER(Facial Expression Recognition) and GAN(Generative Adversarial Net). 
+🌱 I am interested in solving the problem of making predictions based on a limited number of samples
+
+🌱 I am studying FER(Facial Expression Recognition) and GAN(Generative Adversarial Networks)
 
 
 <br>
