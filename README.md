@@ -4,7 +4,7 @@
 
 🌱 I am interested in solving the problem of making predictions based on a limited number of samples
 
-🌱 I am studying FER(Facial Expression Recognition) and GAN(Generative Adversarial Networks)
+🌱 I am studying FER(Facial Expression Recognition) and Few-shot learning
 
 
 <br>
