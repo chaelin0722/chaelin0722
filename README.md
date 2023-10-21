@@ -1,6 +1,6 @@
 ### Hello 😃
 
-🌱 M.S. candidate in IT Engineering
+🌱 M.S. in IT Engineering
 
 🌱 I am interested in solving problems of making predictions based on a limited number of samples
 
