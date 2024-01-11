@@ -1,11 +1,5 @@
 ### Hello 😃
 
-🌱 M.S. in IT Engineering
-
-🌱 I am interested in solving problems of making predictions based on a limited number of samples
-
-🌱 I am studying FER(Facial Expression Recognition) and Few-shot learning
-
 
 <br>
 
