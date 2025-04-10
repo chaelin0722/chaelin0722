@@ -1,6 +1,7 @@
 ### Hello 😃
 
-Hello, my name is Chae-Lin Kim. I am currently pursuing a Ph.D. in Computer Science at Tulane University, advised by <a href="https://saadh.info/">Prof. Saad Hassan</a>, where I focus on AI-based assistive technology. My research interests include deep learning networks, particularly in the field of Human-Computer Interaction (HCI) and computer vision. I am passionate about developing technologies that enhance the quality of life.
+Hello, my name is Chae-Lin Kim. I am currently pursuing a Ph.D. in Computer Science at Tulane University, 
+advised by <a href="https://saadh.info/">Prof. Saad Hassan</a>, where I focus on AI-based assistive technology. My research interests include deep learning networks, particularly in the field of Human-Computer Interaction (HCI) and computer vision. I am passionate about developing technologies that enhance the quality of life.
 
 
 <br>
