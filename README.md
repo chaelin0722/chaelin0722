@@ -1,5 +1,7 @@
 ### Hello 😃
 
+Hello, my name is Chae-Lin Kim. I am currently pursuing a Ph.D. in Computer Science at Tulane University, advised by <a href="https://saadh.info/">Prof. Saad Hassan</a>, where I focus on AI-based assistive technology. My research interests include deep learning networks, particularly in the field of Human-Computer Interaction (HCI) and computer vision. I am passionate about developing technologies that enhance the quality of life.
+
 
 <br>
 
@@ -13,7 +15,7 @@
 <br>
 
 
-### 🙄 about ME
+### about ME
 
 <a href="mailto:ccaa9697@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://chaelin0722.github.io/"><img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=white"/></a>
 
